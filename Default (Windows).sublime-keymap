@@ -1,0 +1,9 @@
+[
+	{
+		"keys" : ["ctrl+shift+f1"] , "command" : "change_case"
+	},
+	{
+
+		"keys" : ["ctrl+t"] , "command" : "c_build"		
+	}
+]
